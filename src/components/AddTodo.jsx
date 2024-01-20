@@ -15,7 +15,7 @@ export default function AddTodo() {
         if (isValid) {
             setInvalid(false)
             setValid(true);
-            dispatch(addTodo(inputValue));
+            dispatch(addTodo({ text: inputValue, where: "notCompleted" }));
             event.target.reset();
 
         } else {
