@@ -2,8 +2,13 @@
 
 I added also Todo - Doing - Complete sections and
 
+
 Also in this link and images about upgraded my to do project
-active link 1:
+active link 1: https://todo-app-v2-by-ali-osman-de.netlify.app/
+
+Todo app v2
+<img width="1680" alt="Screenshot 2024-01-20 at 1 22 39 AM" src="https://github.com/ali-osman-de/todo_app_redux/assets/72684098/cd8f4e40-c2a0-45fa-9b19-2bbf8af05eaa">
+
 
 this link and images are first coding project
 active link 2: https://todo-app-redux-by-ali-osman-de.netlify.app/
